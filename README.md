@@ -21,6 +21,9 @@
 Rust的开发的体验确实不错，解决了很多C++的痛点，同时又可以较大程度保证运行性能
 
 <br>
+## Mac 编译方法
+brew install rust
+cargo build --release
 
 ## 使用方法
 
